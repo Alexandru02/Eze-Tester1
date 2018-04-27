@@ -1,0 +1,14 @@
+{
+  "name": "imbebas",
+  "version": "0.0.1",
+  "description": "imBot un bot creat pentru distractie si moderare.",
+  "main": "go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evie",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
