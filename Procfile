@@ -1,1 +1,1 @@
- worker: node go.js
+ worker: node app.js
